@@ -1,5 +1,3 @@
 main linea uno
 main segunda linea
 main tercera linea
-user1 prrimera linea
-user1 segunda linea
